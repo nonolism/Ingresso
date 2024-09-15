@@ -10,6 +10,6 @@ function comprar(){
     if (quantidadeItemDeComparacao > quantidade){
         itemDeComparacao.innerText = quantidadeItemDeComparacao - quantidade;
     } else {
-        alert('Quantidade inválida, selecione uma quantidade menor que o total');
+        alert(`Quantidade inválida, selecione uma quantidade menor ou igual a ${quantidadeItemDeComparacao}`);
     }
 }
