@@ -6,9 +6,9 @@ Projeto feito no curso de Lógica de programação da Alura com o objetivo de ex
 ## Descrição
 
 O projeto gira em torno de uma página venda de ingressos de um evento. <br>
-Existem 3 tipos de ingressos, quando o botão de 'Comprar' é pressionado,<br>
+Existem 3 tipos de ingressos, quando o botão de 'Comprar' é pressionado, 
 é feita a compra da quantidade inserida desse tipo de ingresso selecionado pelo usuário.<br>
-É feita uma validação para que não seja possivel comprar mais ingressos do que existem disponiveis atualmente, <br>
+É feita uma validação para que não seja possivel comprar mais ingressos do que existem disponiveis atualmente, 
 ou a compra de um valor negativo<br>
 
 ## Estrutura do Projeto
